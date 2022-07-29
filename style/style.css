@@ -199,3 +199,6 @@ footer a:hover{
     color: var(--cor5);
     background-color: var(--cor2);
 }
+
+footer p.myname{
+    padding: 10px;
